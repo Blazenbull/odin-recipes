@@ -1,0 +1,28 @@
+
+h1, p{
+    background-color: #644536;
+    color:beige;
+    text-align: center;
+    margin: 0;
+}
+p{
+    font-style:italic;
+}
+div,h2{
+    background-color: #573D1C;
+    color:beige;
+    margin: 0;
+    text-align: center;
+}
+ul{
+    background-color: #F2A359;
+    display: block;
+    list-style-position: inside;
+    margin: 0;
+    text-align: center;
+    padding-right: 100px;
+    padding-bottom: 100%;
+   
+
+}
+
